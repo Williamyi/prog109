@@ -1,0 +1,59 @@
+h1{
+  font-family: 'DancingScriptRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size:75px;
+}
+body {
+  font-family: Arial, Verdana, sans-serif;
+  color: #665544;
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+  background-image:
+    url("http://images8.alphacoders.com/433/433999.jpg")
+
+}
+.content {
+  overflow: auto;
+}
+.nav, .feature, .footer {
+  margin: 1%;
+}
+.feature{
+  font-size:100%;
+  background-image: url("http://images6.alphacoders.com/405/405273.jpg")
+}
+.column1, .column2, .column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+.column3 {
+  margin-right: 0%;
+}
+li {
+  display: inline;
+  padding: 0.5em;
+}
+.nav, .footer {
+  background-color: black;
+  padding: 0.5em 0;
+}
+.feature, .article {
+  height: 10em;
+  margin-bottom: 1em;
+}
+.column1{
+  background-color:white
+}
+.column2{
+  background-color:silver;
+}
+.column3{
+  background-color:grey;
+}
+.footer{
+  background-color:brown;
+  margin-top:2%;
+}
