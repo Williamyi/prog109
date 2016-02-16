@@ -2,7 +2,7 @@
 // Find the title of the document, and put this in the msg variable
 var msg = '<p><b>page title: </b>' + document.title + '<br />';
 // Find the URL of the document and add it to the msg variable
-msg += '<b>page address: </b>' + document.URL + '<br />';
+msg += '<b>page address: TravelWorthy - By William YI</b>' + document.URL + '<br />';
 // Find the date the document was last modified and add it to the msg variable
 msg += '<b>last modified: </b>' + document.lastModified + '</p>';
 
